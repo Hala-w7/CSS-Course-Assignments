@@ -1,0 +1,30 @@
+/*? Valid  */
+._user-name { 
+}
+
+/*? Valid  */
+.-user-name {
+}
+
+/*? Not Valid */
+/*? can't start with a number */
+.1user-name {
+}
+
+/*? Not Valid */
+/*? special charactars are not allowed */
+.@user-name {
+}
+
+/*? Not Valid */
+/*? special charactars are not allowed */
+.user@name {
+}
+
+/*? Valid  */
+._user10name {
+}
+
+/*? Valid  */
+.u {
+}

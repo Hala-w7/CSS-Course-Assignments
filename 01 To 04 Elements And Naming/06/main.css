@@ -1,0 +1,19 @@
+/*? Bad Practice */
+.USERNAME {
+}
+
+/*? Best Practice  (pascal case) */
+.UserName {
+}
+
+/*? Best Practice (kabab case) */
+.user-name {
+}
+
+/*? Best Practice (camel case) */
+.userName {
+}
+
+/*? Bad Practice */
+.usernameprofile {
+}
