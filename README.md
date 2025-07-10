@@ -7,7 +7,6 @@ This repository is for tracking my learning progress - the Elzero Academy (https
 
 1 Elements And Naming 
 
-
 2 Background, Margin, Padding 
 
 3 Border, Outline, Display 
