@@ -1,7 +1,7 @@
 # CSS-Course-Assignments
 This repository is for tracking my learning progress - the Elzero Academy (https://elzero.org/)
 
-![CSS3 Cascading Style Sheets Logo HTML PNG](https://github.com/user-attachments/assets/127e493b-9e4d-4225-87e5-2b3844a98f66)
+![Flow Charts with CSS Anchor Positioning](https://github.com/user-attachments/assets/785690a7-1684-48d8-8321-b3208b2ead9a)
 
 1 Elements And Naming 
 2 Background, Margin, Padding 
