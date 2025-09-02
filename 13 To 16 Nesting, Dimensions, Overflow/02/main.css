@@ -1,0 +1,29 @@
+.parent {
+    padding: 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+ 
+p {
+    background-color: rgba(165, 40, 40, 0.932);
+    color: #eee;
+    padding: 10px;
+    max-width: 400px;
+    overflow: hidden;
+}
+
+.child-1 {
+    width: fit-content;
+}
+
+.child-2 {
+    width: fit-content;
+}
+
+.child-3 {
+    width: fit-content;
+}
+
+.child-4 {
+    max-height: 100px;
+}
