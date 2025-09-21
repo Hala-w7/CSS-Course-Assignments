@@ -1,0 +1,36 @@
+.parent {
+    width: 800px;
+    background-color: #eee;
+    margin: auto;
+}
+
+.parent div {
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    float: left;
+    background-color: #ddd;
+}
+
+.full-width {
+    width: calc(100% - 30px);
+}
+
+.one {
+    width: calc((100% - 60px)/3);
+}
+
+.two {
+    width: calc((100% - 45px)/2);
+}
+
+.three {
+    width: calc((100% - 75px)/4);
+}
+
+.clear {
+    clear: both;
+}

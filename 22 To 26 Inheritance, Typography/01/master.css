@@ -1,0 +1,28 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    width: 500px;
+    padding: 20px 30px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.one {
+    border: 3px solid red;
+}
+
+.one p {
+    border: inherit;
+    padding: inherit;
+    background-color: #eee;
+}
+
+.two {
+    border: 3px solid #3995b9;
+}
+
+.two p {
+    border: inherit;
+    padding: inherit;
+    background-color: #eee;
+}
