@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+}
+
+.container div {
+    height: 100px;
+    width: 100px;
+    background-color: #ddd;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 50px;
+    padding: 20px;
+    border: 3px solid black;
+    box-shadow: 
+        5px 5px 0 0 #2196f3,
+        -5px -5px 0 0 #e91e63;
+    position: relative;
+    text-align: center;
+    counter-increment: num;
+}
+
+.container div::before {
+    content: counter(num);
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    left: 50px;
+}
+
+.container div::after {
+    content: "element";
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 55px;
+    left: 40px;
+}
